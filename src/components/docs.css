@@ -1,0 +1,42 @@
+.title{
+  font-size: 35px;
+  text-align: center;
+  color: #fff;
+}
+
+.desc{
+  max-width: 100%;
+  margin: auto;
+  padding: 10px;
+  background: #262834;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.all{
+  padding: 10px;
+  border-radius: 6px;
+  background-color: #121212;
+  overflow: hidden;
+}
+
+.name, h3{
+  font-size: 25px;
+  color: rgb(194, 194, 6);
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+h3{
+  color: rgb(228, 5, 5);
+  margin-bottom: 0;
+}
+
+p{
+  font-size: 19px;
+  margin-bottom: 5px;
+}
+
+code{
+  font-size: 19px;
+}
